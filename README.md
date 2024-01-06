@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and tools for development 
 - 🌱 I’m Software Engineer
 
-Extremely motivated to constantly develop my skills and grow professionally. I am confident inmy ability to come up with interesting for Automation work and develop the team in the company.
+Extremely motivated to constantly develop my skills and grow professionally. I am confident in my ability to come up with interesting for Automation work and develop the team in the company.
 
 <!---
 khphet/khphet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
